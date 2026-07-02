@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Blade - 2D Mobile Ninja Fighting Game Production Hub",
+  "description": "An interactive game development sandbox, physics simulator, and copyable C# Unity scripting compiler for premium 2D mobile action combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

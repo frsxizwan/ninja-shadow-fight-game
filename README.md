@@ -1,8 +1,3 @@
-# Shadow Zero: Katana Protocol
-Shadow Zero: Katana Protocol is a fast 2D ninja fighting game with smooth mobile combat, cinematic effects, and stylized visuals. It focuses on responsive controls, combo attacks, and impactful battles against enemies and bosses.
-
-
-
 # 🥷 SHADOW ZERO: KATANA PROTOCOL
 
 A cinematic 2D mobile action fighting game built in Unity, inspired by the fast-paced combat of Katana Zero and the cinematic silhouette style of Shadow Fight.

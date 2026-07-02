@@ -3,6 +3,8 @@
 <div align="center">
   
 <img width="720" height="475" alt="GHBanner" src="NinjaShadowGame/src/Boss Battle.png" />
+
+# How to Download this game (Important) : 
 <img width="720" height="475" alt="GHBanner" src="NinjaShadowGame/src/How to download.png" />
 
 </div>

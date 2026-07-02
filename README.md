@@ -1,6 +1,6 @@
 # 🥷 SHADOW ZERO: KATANA PROTOCOL
-<img width="1200" height="475" alt="GHBanner" src="NinjaShadowGame/src/Boss Battle.png" />
-<img width="1200" height="475" alt="GHBanner" src="NinjaShadowGame/src/How to download.png" />
+<img width="720" height="475" alt="GHBanner" src="NinjaShadowGame/src/Boss Battle.png" />
+<img width="720" height="475" alt="GHBanner" src="NinjaShadowGame/src/How to download.png" />
 
 A cinematic 2D mobile action fighting game built in Unity, inspired by the fast-paced combat of Katana Zero and the cinematic silhouette style of Shadow Fight.
 
